@@ -1,4 +1,4 @@
-import os,platform
+import os,platform,time
 try:os.system('git pull')
 except:pass
 bit = platform.architecture()[0]
