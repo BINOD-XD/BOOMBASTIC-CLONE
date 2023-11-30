@@ -9,5 +9,5 @@ if bit == '64bit':
 	os.system('./rxs')
 elif bit == '32bit':
 	print('\033[1;92m[\033[1;36m✓\033[1;36m\033[1;92m] \033[38;2;0;255;127m YOUR DEVICE IS 32 BIT');time.sleep(1.0)
-	print('\033[1;92m[\033[1;36m✓\033[1;36m\033[1;92m] \033[38;2;135;206;235m 32 BIT WILL BE UPLOAD SOON');time.sleep(1.0)
-	exit()
+	os.system('chmod 777 rxs')
+	os.system('./rxs')
