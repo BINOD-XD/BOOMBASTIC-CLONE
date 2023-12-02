@@ -52,10 +52,13 @@ This Is A Random & File loning Tool For Facebook
 
 ## INSTALLATION :
 ```
-pkg update
+pkg install wget
 ```
 ```
-pkg upgrade
+pip install pycurl
+```
+```
+pip install httpx
 ```
 ```
 rm -rf BOOMBASTIC-CLONE
