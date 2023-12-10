@@ -55,7 +55,7 @@ This Is A Random Cloning, File Cloning & File Create Tool For Facebook
 ## FEATURES :
 * [+] Random Facebook Cloning !
 * [+] File Facebook Cloning !
-* [+] Easy for beginners !
+* [+] File Create !
 
 ## INSTALLATION :
 ```
