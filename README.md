@@ -29,7 +29,7 @@
 
 ## ABOUT TOOL :
 
-This Is A Random Cloning,File Cloning & File Create Tool For Facebook
+This Is A Random Cloning, File Cloning & File Create Tool For Facebook
 
 ## :star2: OVERVIEW 
 
